@@ -1,0 +1,12 @@
+{
+  "Master" : {
+    "Bittergourd" : 9.0,
+    "Onion" : 10,
+    "Potato" : 9.0
+  },
+  "Threshold" : {
+    "Bittergourd" : 10.0,
+    "Onion" : 0.6,
+    "Potato" : 9.333333333333334
+  }
+}
